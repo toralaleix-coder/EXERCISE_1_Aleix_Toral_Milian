@@ -1,0 +1,14 @@
+name: spacy_env
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.10
+  - spacy=3.8
+  - pandas
+  - matplotlib
+  - scipy
+  - jupyter
+  - ipykernel
+
